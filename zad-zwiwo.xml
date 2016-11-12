@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metalink>
+    <published>2016-11-12T15:26:21.420+01:00</published>
+    <files>
+        <name>build.xml</name>
+        <url>http://zad-zwiwo.com/download/build.xml</url>
+        <hash type="MD5">3d01a36f87df184463a4038d8f1722f8</hash>
+        <size>708</size>
+    </files>
+    <files>
+        <name>default.properties</name>
+        <url>http://zad-zwiwo.com/download/default.properties</url>
+        <hash type="MD5">7cf7c2e41f383b2675f7a2f3f82a76c7</hash>
+        <size>27</size>
+    </files>
+    <files>
+        <name>metalink.iml</name>
+        <url>http://zad-zwiwo.com/download/metalink.iml</url>
+        <hash type="MD5">05c7d97c0e3a16ced35c2d9e4554f906</hash>
+        <size>1163</size>
+    </files>
+    <files>
+        <name>pom.xml</name>
+        <url>http://zad-zwiwo.com/download/pom.xml</url>
+        <hash type="MD5">683225cd1d26dccca9a1d2ae93ff2600</hash>
+        <size>1637</size>
+    </files>
+</metalink>
